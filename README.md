@@ -5,3 +5,6 @@
 [Qubic](https://www.joomshaper.com/joomla-templates/qubic) Onepage Template (Qubic)
 
 1. No-scroll uses procedure 
+
+
+##Next update coming soon
