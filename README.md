@@ -6,5 +6,8 @@
 
 1. No-scroll uses procedure 
 
-
-##Next update coming soon
+## Problems during installation
+1. Go to below path 
+installation\sql\mysql\sample_data.sql
+2. Open sample_data.sql in notepad
+3. Find out InnoDB and replace all InnoDB to MyISAM
