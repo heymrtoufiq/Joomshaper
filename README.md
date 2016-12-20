@@ -7,8 +7,6 @@
 1. No-scroll uses procedure 
 
 
-##Next update coming soon
-
 ## Problems during installation of joomshaper template
 1. Go to below path
 installation\sql\mysql\sample_data.sql
