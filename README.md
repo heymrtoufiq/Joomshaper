@@ -1,6 +1,9 @@
 # Joomshaper
 **Frequently question answer of Template &amp; Extensions joomshaper product**
 
+#How to install joomla 
+
+
 # Onepage Template (Qubic)
 [Qubic](https://www.joomshaper.com/joomla-templates/qubic) Onepage Template (Qubic)
 
