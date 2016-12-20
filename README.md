@@ -14,3 +14,6 @@
 installation\sql\mysql\sample_data.sql
 2. Open sample_data.sql in sublime or any editor
 3. Find out InnoDB and replace all InnoDB to MyISAM
+
+## How to install helix3 quickstart pack
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n11cN3NcbDs" frameborder="0" allowfullscreen></iframe>
