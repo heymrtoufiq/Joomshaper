@@ -15,3 +15,15 @@ installation\sql\mysql\sample_data.sql
 
 ## How to install helix3 quickstart pack
 [video](https://www.youtube.com/embed/n11cN3NcbDs) Installation process of Helix3 quickstart
+
+##Added dropdown menu item but link not working
+#Go to the below location
+templates\shaper_qubic\index.php
+
+#Find out below code
+$doc->addScriptdeclaration( "\nvar onePageUrl = '".JURI::base(true) . "';\n" );
+
+#And replace with this code 
+$doc->addScriptdeclaration( "\nvar onePageUrl = '".JURI::base(true) . "';\n" );
+
+#Add this class inside of Helix menu options > sidebar > Custom CSS Class > no-scroll
