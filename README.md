@@ -14,4 +14,4 @@ installation\sql\mysql\sample_data.sql
 3. Find out InnoDB and replace all InnoDB to MyISAM
 
 ## How to install helix3 quickstart pack
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n11cN3NcbDs" frameborder="0" allowfullscreen></iframe>
+[video](https://www.youtube.com/embed/n11cN3NcbDs) Installation process of Helix3 quickstart
