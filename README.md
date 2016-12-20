@@ -20,10 +20,10 @@ installation\sql\mysql\sample_data.sql
 #Go to the below location
 templates\shaper_qubic\index.php
 
-#Find out below code
+###Find out below code
 $doc->addScriptdeclaration( "\nvar onePageUrl = '".JURI::base(true) . "';\n" );
 
-#And replace with this code 
+###And replace with this code 
 $doc->addScriptdeclaration( "\nvar onePageUrl = '".JURI::base(true) . "';\n" );
 
-#Add this class inside of Helix menu options > sidebar > Custom CSS Class > no-scroll
+###Add this class inside of Helix menu options > sidebar > Custom CSS Class > no-scroll
