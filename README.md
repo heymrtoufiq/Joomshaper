@@ -17,7 +17,7 @@ installation\sql\mysql\sample_data.sql
 [video](https://www.youtube.com/embed/n11cN3NcbDs) Installation process of Helix3 quickstart
 
 ##Added dropdown menu item but link not working
-#Go to the below location
+####Go to the below location
 templates\shaper_qubic\index.php
 
 ####Find out below code
