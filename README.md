@@ -9,8 +9,8 @@
 
 ##Next update coming soon
 
-## Problems during installation
-1. Go to below path 
+## Problems during installation of joomshaper template
+1. Go to below path
 installation\sql\mysql\sample_data.sql
 2. Open sample_data.sql in sublime or any editor
 3. Find out InnoDB and replace all InnoDB to MyISAM
